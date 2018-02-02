@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zymr1/Rudrik/GoogleProjects/BeautyTips/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/res/values-uz-rUZ/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,385,493,616,720,837,923,1034,1150,1259,1366,1465,1573,1678,1783",
+                        "endColumns": "104,107,122,103,116,85,110,115,108,106,98,107,104,104,98",
+                        "endOffsets": "380,488,611,715,832,918,1029,1145,1254,1361,1460,1568,1673,1778,1877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,160,268,391,495,612,698,809,925,1034,1141,1240,1348,1453,1558",
+                        "endColumns": "104,107,122,103,116,85,110,115,108,106,98,107,104,104,98",
+                        "endOffsets": "155,263,386,490,607,693,804,920,1029,1136,1235,1343,1448,1553,1652"
+                    }
+                },
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/res/values-uz-rUZ/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,402,516,621,721,828,929,1058,1173,1258",
+                        "endColumns": "119,113,104,99,106,100,128,114,84,96",
+                        "endOffsets": "397,511,616,716,823,924,1053,1168,1253,1350"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1657,1777,1891,1996,2096,2203,2304,2433,2548,2633",
+                        "endColumns": "119,113,104,99,106,100,128,114,84,96",
+                        "endOffsets": "1772,1886,1991,2091,2198,2299,2428,2543,2628,2725"
+                    }
+                }
+            ]
+        }
+    ]
+}

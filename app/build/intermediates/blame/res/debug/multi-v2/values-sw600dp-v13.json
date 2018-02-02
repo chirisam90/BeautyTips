@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zymr1/Rudrik/GoogleProjects/BeautyTips/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/res/values-sw600dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4,5,8,11,12,13",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "280,350,645,929,1000,1068",
+                        "endColumns": "69,69,58,70,67,54",
+                        "endOffsets": "345,415,699,995,1063,1118"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,125,195,254,325,466",
+                        "endColumns": "69,69,58,70,67,54",
+                        "endOffsets": "120,190,249,320,388,516"
+                    }
+                },
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/res/values-sw600dp-v13/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "282",
+                        "endColumns": "72",
+                        "endOffsets": "350"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "393",
+                        "endColumns": "72",
+                        "endOffsets": "461"
+                    }
+                }
+            ]
+        }
+    ]
+}

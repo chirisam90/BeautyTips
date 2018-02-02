@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zymr1/Rudrik/GoogleProjects/BeautyTips/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-et-rEE/values-et-rEE.xml",
+            "map": [
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.0.0.aar/91772969b5506ed4b315c4035aaad81d/res/values-et-rEE/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,394,505,612,723,823,922,1043,1148,1235",
+                        "endColumns": "111,110,106,110,99,98,120,104,86,93",
+                        "endOffsets": "389,500,607,718,818,917,1038,1143,1230,1324"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1785,1897,2008,2115,2226,2326,2425,2546,2651,2738",
+                        "endColumns": "111,110,106,110,99,98,120,104,86,93",
+                        "endOffsets": "1892,2003,2110,2221,2321,2420,2541,2646,2733,2827"
+                    }
+                },
+                {
+                    "source": "/home/zymr1/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.0.0.aar/1fac358952671956f4ea275bc507c0a2/res/values-et-rEE/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "280,397,505,628,735,846,932,1034,1151,1262,1367,1466,1576,1677,1780,1908",
+                        "endColumns": "116,107,122,106,110,85,101,116,110,104,98,109,100,102,127,101",
+                        "endOffsets": "392,500,623,730,841,927,1029,1146,1257,1362,1461,1571,1672,1775,1903,2005"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,510,621,707,809,926,1037,1142,1241,1351,1452,1555,1683",
+                        "endColumns": "116,107,122,106,110,85,101,116,110,104,98,109,100,102,127,101",
+                        "endOffsets": "167,275,398,505,616,702,804,921,1032,1137,1236,1346,1447,1550,1678,1780"
+                    }
+                }
+            ]
+        }
+    ]
+}
